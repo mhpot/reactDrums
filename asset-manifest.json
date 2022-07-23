@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactDrums/static/css/main.a4dab99c.css",
+    "main.js": "/reactDrums/static/js/main.5a2f8021.js",
+    "static/js/787.5093bacc.chunk.js": "/reactDrums/static/js/787.5093bacc.chunk.js",
+    "index.html": "/reactDrums/index.html",
+    "main.a4dab99c.css.map": "/reactDrums/static/css/main.a4dab99c.css.map",
+    "main.5a2f8021.js.map": "/reactDrums/static/js/main.5a2f8021.js.map",
+    "787.5093bacc.chunk.js.map": "/reactDrums/static/js/787.5093bacc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4dab99c.css",
+    "static/js/main.5a2f8021.js"
+  ]
+}
